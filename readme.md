@@ -1,6 +1,6 @@
 # Detección de Fraude de Tarjetas de Crédito
 
-Este repositorio contiene una solución para el problema de detección de fraude de tarjetas de crédito usando un dataset anonimizado de Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  Para el balanceo de datos se utlizó SMOTE,  y los modelos considerason son  regresión lógistica, random forest, SVC y XGboost. 
+Este repositorio contiene una solución para el problema de detección de fraude de tarjetas de crédito usando un dataset anonimizado de Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  Para el balanceo de datos se utlizó SMOTE,  y los modelos considerados son  regresión lógistica, random forest, SVC y XGboost. 
 
 ## Modelos
 
